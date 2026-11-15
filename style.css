@@ -5,60 +5,81 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            font-family: 'Poppins', sans-serif;
+            font-family: "Poppins", sans-serif;
         }
 
+/* LANDING PAGE */
+        body {
+    background-image: url("Home\ Page.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    background-color: #fce3eb;
+}
 
-        /* Navigation */
-        nav {
-           font-size: 12px;
-            background-color: pink;
-            padding: 1rem;
-        }
+body.landing {
+    margin: 0;
+    background-color: #fce3eb;
+}
 
-        nav ul {
-            list-style: none;
-            display: flex;
-            justify-content: center;
-            gap: 2rem;
-        }
+.landing-image {
+   width: 100%;
+    height: 100vh;
+    object-fit: contain;
+    display: block;
+    cursor: pointer;
+}
 
-        nav a {
-            color: black;
-            text-decoration: none;
-            transition: 0.3s ease;
-        }
+/* NAVIGATION MENU */
 
-        nav a:hover {
-            color: white;
-            text-decoration: overline;
-            transition: 0.3s ease;
-        }
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 30px;
+}
 
-        /* Site Title */
-        .site-title h1 {
-            text-align: center;
-            color: pink;
-            text-transform: uppercase;
-            font-size: 60px;
-        }
+/* NAVIGATION LINKS */
 
-        .site-title p {
-            font-size: 14px;
-            text-transform: uppercase;
-            text-align: center;
-        }
+.navbar a {
+    text-decoration: none;
+    color: #c65d7b;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
 
-        h2 {    
-            font-size: 32px;
-            margin-bottom: 1rem;
-            color: pink;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-            text-align: center;
-        
-        }
+/* HOVER EFFECT */
 
+.navbar a:hover {
+    color: #f08ba8;
+    text-decoration: overline;
+}
+
+/* PORTFOLIO PAGE */
+body.portfolio {
+    margin: 0;
+    background-image: url("Background.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+/*CONTACT PAGE */
+body.contact {
+    margin: 0;
+    background-image: url("Background.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
 
         /* Header Image */
         .header {
