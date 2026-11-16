@@ -80,53 +80,6 @@ body.contact {
     background-attachment: fixed;
     min-height: 100vh;
 }
-
-        /* Header Image */
-        .header {
-         margin-top: 20px;
-            top: 0;
-            left: 0;
-            width: 100%;
-            padding: 1rem 9%;
-            position: fixed;
-            z-index: 100;
-            align-items: center;
-
-        }
-        .hero img {
-            width: 100%;
-            object-fit: cover;
-            display: block;
-        }
-
-        /* Main Content */
-        .home {
-          display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-
-        width: 500px;
-        padding: 20px;
-        border: 1px dashed pink;
-
-        margin: 1rem auto; /* Centers the box horizontally */
-        }
-
-        .home p {
-            font-size: 14px;
-            max-width: 800px;
-            text-align: justify;
-            color: #333;
-        }
-
-        .home h2 {
-            font-size: 32px;
-            margin-bottom: 1rem;
-            color: pink;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-        }
     
         /* Scroll Box */
         .scroll-box {
@@ -166,7 +119,6 @@ body.contact {
         /* Footer */
         footer {
             font-size: 10px;
-            background-color: pink;
             color: black;
             text-align: center;
             padding: 1.5rem;
