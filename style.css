@@ -8,29 +8,38 @@
             font-family: "Poppins", sans-serif;
         }
 
+
 /* LANDING PAGE */
-        body {
-    background-image: url("Home\ Page.png");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    margin: 0;
-    padding: 0;
-    background-color: #fce3eb;
-}
 
 body.landing {
     margin: 0;
+    padding: 0;
     background-color: #fce3eb;
+    min-height: 100vh;
+}
+
+.landing-link {
+    display: block;
+    width: 100%;
 }
 
 .landing-image {
-   width: 100%;
-    height: 100vh;
-    object-fit: contain;
     display: block;
-    cursor: pointer;
+    width: 100%;
+    height: 100vh;
+    height: 100svh;
+    object-fit: contain;
+    object-position: center;
+}
+
+/* MOBILE LANDING PAGE */
+
+@media screen and (max-width: 768px) {
+    .landing-image {
+        width: 100%;
+        height: 100svh;
+        object-fit: contain;
+    }
 }
 
 /* NAVIGATION MENU */
@@ -70,6 +79,7 @@ body.portfolio {
     background-attachment: fixed;
     min-height: 100vh;
 }
+
 /*CONTACT PAGE */
 body.contact {
     margin: 0;
