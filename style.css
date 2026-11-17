@@ -32,14 +32,28 @@ body.landing {
     object-position: center;
 }
 
-/* MOBILE LANDING PAGE */
 
+/* MOBILE LANDING PAGE */
 @media screen and (max-width: 768px) {
-    .landing-image {
+
+    body.landing {
+        overflow: hidden;
+    }
+
+    .landing-link {
         width: 100%;
         height: 100svh;
-        object-fit: cover;
-        object-position: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+    }
+
+    .landing-image {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        transform: scale(1.5);
     }
 }
 
