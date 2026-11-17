@@ -38,9 +38,11 @@ body.landing {
     .landing-image {
         width: 100%;
         height: 100svh;
-        object-fit: contain;
+        object-fit: cover;
+        object-position: center;
     }
 }
+
 
 /* NAVIGATION MENU */
 
