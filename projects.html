@@ -26,5 +26,87 @@
         </div>
     </nav>
 
+
+<main class="projects-page">
+
+    <header class="casting-header">
+        <p>JASMINE HOWARD</p>
+        <h1>THE CASTING BOARD</h1>
+        <p>TEXTILE DESIGN • SOURCING • DEVELOPMENT</p>
+        <span>SELECT A LOOK TO EXPLORE</span>
+    </header>
+
+    <section class="casting-grid">
+
+        <!-- MODEL 001 -->
+        <button class="project-card" data-project="look-001">
+            <span class="model-number">MODEL 001</span>
+            <div class="polaroid">
+                <img src=""
+                     alt="Model wearing garment featuring my textile work">
+            </div>
+        </button>
+
+        <!-- MODEL 002 -->
+        <button class="project-card" data-project="look-002">
+            <span class="model-number">MODEL 002</span>
+            <div class="polaroid">
+                <img src=""
+                     alt="Model wearing garment featuring my textile work">
+            </div>
+        </button>
+
+        <!-- MODEL 003 -->
+        <button class="project-card" data-project="look-003">
+            <span class="model-number">MODEL 003</span>
+            <div class="polaroid">
+                <img src=""
+                     alt="Model wearing garment featuring my textile work">
+            </div>
+        </button>
+
+    </section>
+</main>
+
+<!-- PROJECT DETAIL MODAL -->
+<div class="project-modal" id="projectModal"
+     aria-hidden="true">
+
+    <div class="modal-content"
+         role="dialog"
+         aria-modal="true"
+         aria-labelledby="modalTitle">
+
+        <button class="modal-close"
+                id="modalClose"
+                aria-label="Close project details">
+            &times;
+        </button>
+
+        <p class="modal-eyebrow" id="modalNumber">
+            MODEL 001
+        </p>
+
+        <h2 id="modalTitle">Project Title</h2>
+
+        <div class="modal-section">
+            <h3>FABRIC & TRIMS</h3>
+            <p id="modalMaterials"></p>
+        </div>
+
+        <div class="modal-section">
+            <h3>MY ROLE</h3>
+            <p id="modalRole"></p>
+        </div>
+
+        <div class="modal-section">
+            <h3>BEHIND THE LOOK</h3>
+            <div class="modal-gallery" id="modalGallery"></div>
+        </div>
+
+    </div>
+</div>
+
+<script src="projects.js"></script>
 </body>
 </html>
