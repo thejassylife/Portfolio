@@ -138,7 +138,7 @@ body.contact {
          width: 500px; /* Make the box 500 pixels wide */
          height: 200px; /* Make the box 200 pixels tall */
         overflow: auto; /* Adds scrollbars only when the content gets too big */
-         border: 1px dashed pink;
+         border: 1px dashed #c65d7b;
         margin: 1rem auto; /* Centers the box horizontally */
         flex-direction: column;
         align-items: center;
@@ -153,19 +153,19 @@ body.contact {
 
 /* 2. Style the track (background) */
 ::-webkit-scrollbar-track {
-  background: white;
+  background: #fce3eb;
   border-radius: 4px;
 }
 
 /* 3. Style the thumb (draggable handle) */
 ::-webkit-scrollbar-thumb {
-  background: pink;
+  background: #c65d7b;
   border-radius: 4px;
 }
 
 /* 4. Add a hover effect to the thumb */
 ::-webkit-scrollbar-thumb:hover {
-  background: pink;
+  background: #c65d7b;
 }
 
 
