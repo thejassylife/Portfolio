@@ -57,17 +57,23 @@ body.landing {
     }
 }
 
-/* NAVIGATION MENU */
+
+/* NAVIGATION LAYOUT */
 
 .navbar {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 25px 15px;
+    box-sizing: border-box;
+}
+
+.nav-links {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 50px;
-    padding: 30px;
+    gap: 40px;
 }
-
-/* NAVIGATION LINKS */
 
 .navbar a {
     text-decoration: none;
@@ -75,13 +81,34 @@ body.landing {
     font-family: "Poppins", sans-serif;
     font-size: 16px;
     letter-spacing: 2px;
+    transition: color 0.3s ease;
 }
-
-/* HOVER EFFECT */
 
 .navbar a:hover {
     color: #f08ba8;
     text-decoration: overline;
+}
+
+/* MOBILE NAVIGATION */
+
+@media screen and (max-width: 600px) {
+
+    .navbar {
+        padding: 20px 12px;
+    }
+
+    .nav-links {
+        width: 100%;
+        gap: 20px;
+        justify-content: center;
+    }
+
+    .navbar a {
+        font-size: 12px;
+        letter-spacing: 1.5px;
+        padding: 10px 4px;
+        white-space: nowrap;
+    }
 }
 
 /* PORTFOLIO PAGE */
