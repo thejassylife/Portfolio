@@ -5,23 +5,19 @@ const projects = {
 
     "look-001": {
         number: "MODEL 001",
-        title: "Project One",
+        title: "Atelier - Feather Motif Corset",
 
         materials: `
-            Fabric: Add fabric name here.
-            Trim: Add trim details here.
-            Additional details: Add material specifications here.
+            Fabric: Embroidered feather motifs with sequins.<br>
+            Additional details: Corset constructed with multiple sizes and shapes of embroidered feather motifs.
         `,
 
         role: `
-            Describe your contributions to this project,
-            including textile design, sourcing, development,
-            or any other responsibilities.
+           I worked with the design team on their vision for this project, creating the feather motif embroidery and collaborating on the overall design and construction of the corset with our fabric supplier. We did multiple versions with and without beads & sequins, multiple szes and shapes. It was featured in the 2026 VS Fashion Show, worn by Anok Yai.
         `,
 
         photos: [
-            "images/look-001-detail-1.jpg",
-            "images/look-001-detail-2.jpg"
+            "Images/atelier/look-001-details.png",
         ]
     },
 
