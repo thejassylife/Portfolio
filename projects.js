@@ -8,8 +8,7 @@ const projects = {
         title: "Atelier - Feather Motif Corset",
 
         materials: `
-            Fabric: Embroidered feather motifs with sequins.<br>
-            Additional details: Corset constructed with multiple sizes and shapes of embroidered feather motifs.
+           Embroidered feather motifs with sequins.
         `,
 
         role: `
