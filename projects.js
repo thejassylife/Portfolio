@@ -22,10 +22,10 @@ const projects = {
 
     "look-002": {
         number: "MODEL 002",
-        title: "Project Two",
+        title: "Frosted",
 
         materials: `
-            Add your fabric and trim information here.
+            Fabric: Embroidered tulle with sequins and beads.
         `,
 
         role: `
