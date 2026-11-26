@@ -16,7 +16,7 @@ const projects = {
         `,
 
         photos: [
-            "Images/atelier/look-001-details.png",
+            "Images/Atelier/look-001-details.png",
         ]
     },
 
@@ -33,7 +33,7 @@ const projects = {
         `,
 
         photos: [
-            "images/look-002-detail-1.jpg"
+            "Images/Atelier/look-002-details.png"
         ]
     },
 

@@ -114,7 +114,7 @@ body.landing {
 /* PORTFOLIO PAGE */
 body.portfolio {
     margin: 0;
-    background-image: url("Images/background/Background.png");
+    background-image: url("Images/Background/Background.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -125,7 +125,7 @@ body.portfolio {
 /*CONTACT PAGE */
 body.contact {
     margin: 0;
-    background-image: url("Images/background/Background.png");
+    background-image: url("Images/Background/Background.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -175,7 +175,7 @@ body.contact {
     min-height: 100vh;
     padding: 35px 5%;
     box-sizing: border-box;
-    background-image: url("images/casting-background.png");
+    background-image: url("Images/Background/Background.png");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
