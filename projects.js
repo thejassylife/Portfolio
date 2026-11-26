@@ -29,7 +29,7 @@ const projects = {
         `,
 
         role: `
-            Describe your role in this project here.
+            I developed the embroidery design and collaborated with the design team on the overall construction of the garment. I also worked with our fabric supplier to get this embroidery within our cost targets and ensure that they met our quality standards.
         `,
 
         photos: [
