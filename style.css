@@ -78,7 +78,7 @@ body.landing {
 .navbar a {
     text-decoration: none;
     color: #c65d7b;
-    font-family: "Poppins", sans-serif;
+    font-family: "Playfair Display", serif;
     font-size: 16px;
     letter-spacing: 2px;
     transition: color 0.3s ease;
