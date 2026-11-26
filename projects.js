@@ -12,7 +12,7 @@ const projects = {
         `,
 
         role: `
-           I worked with the design team on their vision for this project, creating the feather motif embroidery and collaborating on the overall design and construction of the corset with our fabric supplier. It was featured in the 2026 VS Fashion Show, worn by Anok Yai.
+           I worked with the design team on their vision for this project, creating the feather motif embroidery and collaborating on the overall design and construction of the corset with our fabric supplier. Worked closely with Product Development to ensure fabric was within cost and MOQ targets. It was featured in the 2026 VS Fashion Show, worn by Anok Yai.
         `,
 
         photos: [
@@ -29,7 +29,7 @@ const projects = {
         `,
 
         role: `
-            I collaborated with the design team on the overall aesthetic and worked with our fabric supplier to ensure quality standards were met. This set was worn in the 2026 VS Fashion Show.
+            I collaborated with the design team on the overall aesthetic and worked with our fabric supplier to ensure quality standards were met. Worked closely with Product Development to ensure fabric was within cost and MOQ targets.This set was worn in the 2026 VS Fashion Show.
         `,
 
         photos: [
@@ -46,7 +46,7 @@ const projects = {
         `,
 
         role: `
-            Worked alongside the design team and my trim suppliers to ensure aesthtic and quality standards were met and make it production ready. This was worn in the 2026 VS Fashion Show.
+            Worked alongside the design team and my trim suppliers to ensure aesthetic and quality standards were met, along with cost targets and making it production ready. This was worn in the 2026 VS Fashion Show.
         `,
 
         photos: [
@@ -83,7 +83,7 @@ const projects = {
         `,
 
         role: `
-            Collaborated with the design team to ensure aesthetic, color and quality standards were met.
+            Collaborated with the design team to ensure aesthetic, color and quality standards were met. Worked closely with Product Development to ensure fabric was within cost and MOQ targets.
         `,
 
         photos: [
