@@ -5,14 +5,14 @@ const projects = {
 
     "look-001": {
         number: "MODEL 001",
-        title: "Atelier - Feather Motif Corset",
+        title: "Feather Motif Corset",
 
         materials: `
            Embroidered feather motifs with sequins.
         `,
 
         role: `
-           I worked with the design team on their vision for this project, creating the feather motif embroidery and collaborating on the overall design and construction of the corset with our fabric supplier. We did multiple versions with and without beads & sequins, multiple szes and shapes. It was featured in the 2026 VS Fashion Show, worn by Anok Yai.
+           I worked with the design team on their vision for this project, creating the feather motif embroidery and collaborating on the overall design and construction of the corset with our fabric supplier. It was featured in the 2026 VS Fashion Show, worn by Anok Yai.
         `,
 
         photos: [
@@ -29,7 +29,7 @@ const projects = {
         `,
 
         role: `
-            I developed the embroidery design and collaborated with the design team on the overall construction of the garment. I also worked with our fabric supplier to get this embroidery within our cost targets and ensure that they met our quality standards.
+            I collaborated with the design team on the overall aesthetic and worked with our fabric supplier to ensure quality standards were met. This set was worn in the 2026 VS Fashion Show.
         `,
 
         photos: [
@@ -39,17 +39,56 @@ const projects = {
 
     "look-003": {
         number: "MODEL 003",
-        title: "Project Three",
+        title: "Logo Body Jewelry",
 
         materials: `
-            Add your fabric and trim information here.
+            Metal and crystal rhinestones.
         `,
 
         role: `
-            Describe your role in this project here.
+            Worked alongside the design team and my trim suppliers to ensure aesthtic and quality standards were met and make it production ready. This was worn in the 2026 VS Fashion Show.
         `,
 
-        photos: []
+        photos: [
+            "Images/Atelier/look-003-details.png"
+        ]
+    },
+
+    "look-004": {
+        number: "MODEL 004",
+        title: "Frou Frou",
+
+        materials: `
+            Embroidered chiffon on delicate, floral lace.
+        `,
+
+        role: `
+            Sourced and developed with fabric suppliers to ensure leadtime, MOQ, cost and quality standards were met.
+        `,
+
+        photos: [
+            "Images/dream-angels/look-004-details.png",
+            "Images/dream-angels/look-004-details-1.png"
+
+        ]
+    },
+
+
+    "look-005": {
+        number: "MODEL 005",
+        title: "Shimmer",
+
+        materials: `
+            Embroidered tulle with sequins.
+        `,
+
+        role: `
+            Collaborated with the design team to ensure aesthetic, color and quality standards were met.
+        `,
+
+        photos: [
+            "Images/dream-angels/look-005-details.png"
+        ]
     }
 
 };
