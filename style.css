@@ -184,14 +184,20 @@ body.contact {
 .casting-header {
     text-align: center;
     color: #b85b76;
-    font-family: "Poppins", sans-serif;
+font-family: "DM Sans", sans-serif;
     margin-bottom: 35px;
 }
 
-.casting-header h1 {
-    font-family: Georgia, serif;
-    letter-spacing: 4px;
-    font-size: 28px;
+.casting-header h1,
+.modal-content h2 {
+    font-family: "Playfair Display", serif;
+}
+
+.model-number,
+.modal-content,
+.modal-section h3 {
+    font-family: "DM Sans", sans-serif;
+}
 }
 
 .casting-header p {
