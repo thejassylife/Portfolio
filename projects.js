@@ -89,8 +89,126 @@ const projects = {
         photos: [
             "Images/dream-angels/look-005-details.png"
         ]
-    }
+    },
 
+        "look-006": {
+        number: "MODEL 006",
+        title: "Shimmer Bow",
+
+        materials: `
+            Embroidered tulle with sequins.
+        `,
+
+        role: `
+            Collaborated with the design team to ensure aesthetic, color and quality standards were met. Worked closely with Product Development to ensure fabric was within cost and MOQ targets.
+        `,
+
+        photos: [
+            "Images/dream-angels/look-006-details.png"
+        ]
+    },
+
+        "look-007": {
+        number: "MODEL 007",
+        title: "Butterflies",
+
+        materials: `
+            Embroidered tulle with butterflies with a matching trim and allover butterfly embroidery.
+        `,
+
+        role: `
+            Collaborated with the design team to ensure aesthetic, color and quality standards were met. Worked closely with Product Development to ensure fabric was within cost and MOQ targets.
+        `,
+
+        photos: [
+            "Images/dream-angels/look-007-details.png"
+        ]
+    },
+
+        "look-008": {
+        number: "MODEL 008",
+        title: "Bridal Peonies",
+
+        materials: `
+            Embroidered tulle with peony design.
+        `,
+
+        role: `
+            Collaborated with the design team to ensure aesthetic, color and quality standards were met.
+        `,
+
+        photos: [
+            ""
+        ]
+    },
+
+        "look-009": {
+        number: "MODEL 009",
+        title: "Hearts and Roses",
+
+        materials: `
+            Embroidered tulle with hearts and roses design.
+        `,
+
+        role: `
+            Collaborated with the design team to ensure aesthetic, color and quality standards were met.
+        `,
+
+        photos: [
+            ""
+        ]
+    },
+
+        "look-010": {
+        number: "MODEL 010",
+        title: "Pop Floral",
+
+        materials: `
+            Embroidered tulle.
+        `,
+
+        role: `
+            Collaborated with the design team to ensure aesthetic, color and quality standards were met.
+        `,
+
+        photos: [
+            ""
+        ]
+    },
+
+        "look-011": {
+        number: "MODEL 011",
+        title: "Blossom",
+
+        materials: `
+            Embroidered tulle with 3D floral design.
+        `,
+
+        role: `
+            Collaborated with the design team to ensure aesthetic, color and quality standards were met. Worked closely with Product Development to ensure fabric was within cost targets.
+        `,
+
+        photos: [
+            ""
+        ]
+    },
+
+        "look-012": {
+        number: "MODEL 012",
+        title: "Heartbeat",
+
+        materials: `
+            Embroidered tulle with heart design.
+        `,
+
+        role: `
+            Collaborated with the design team to ensure aesthetic, color and quality standards were met. Worked closely with Product Development to ensure fabric was within cost targets.
+        `,
+
+        photos: [
+            ""
+        ]
+    }
 };
 
 
