@@ -138,7 +138,7 @@ const projects = {
         `,
 
         photos: [
-            ""
+            "Images/dream-angels/look-008.png"
         ]
     },
 
@@ -155,7 +155,7 @@ const projects = {
         `,
 
         photos: [
-            ""
+            "Images/dream-angels/look-009-details.png"
         ]
     },
 
@@ -172,7 +172,7 @@ const projects = {
         `,
 
         photos: [
-            ""
+            "Images/dream-angels/look-010.png"
         ]
     },
 
@@ -189,7 +189,7 @@ const projects = {
         `,
 
         photos: [
-            ""
+            "Images/dream-angels/look-011-details.png"
         ]
     },
 
@@ -206,7 +206,7 @@ const projects = {
         `,
 
         photos: [
-            ""
+            "Images/dream-angels/look-012-details.png"
         ]
     }
 };
