@@ -226,6 +226,7 @@ const projects = {
             "Images/dream-angels/look-013-details.png"
         ]
     },
+
       "look-014": {
         number: "MODEL 014",
         title: "Watercolor",
@@ -243,6 +244,93 @@ const projects = {
             "Images/dream-angels/look-014-details-1.png"
         ]
     },
+
+      "look-015": {
+        number: "MODEL 015",
+        title: "Butterfly Rhinestone",
+
+        materials: `
+            Metal butterfly trim with rhinestones.
+        `,
+
+        role: `
+            Collaborated with the design team to ensure aesthetic, color and quality standards were met. Worked closely with Product Development to ensure trim was within cost and MOQ targets.
+        `,
+
+        photos: [
+            "Images/dream-angels/look-015-details.png"
+        ]
+    },
+
+      "look-016": {
+        number: "MODEL 016",
+        title: "Chiffon Motifs",
+
+        materials: `
+            Chiffon fabric made into floral motifs.
+        `,
+
+        role: `
+            Collaborated with the design team to ensure aesthetic, color and quality standards were met. Worked closely with Product Development to ensure fabric was within cost and MOQ/MCQ targets.
+        `,
+
+        photos: [
+            "Images/dream-angels/look-016-details.png"
+        ]
+    },
+
+    "look-017": {
+        number: "MODEL 017",
+        title: "Metal Bow Rhinestone Trims",
+
+        materials: `
+            Metal bow trims with rhinestones and logo charms.
+        `,
+    
+        role: `
+            Collaborated with the design team to ensure aesthetic, color and quality standards were met. Worked closely with Product Development to ensure trim was within cost and MOQ targets.
+        `,
+    
+        photos: [
+            "Images/dream-angels/look-017-details.png",
+            "Images/dream-angels/look-017-details-1.png"
+        ]
+    },
+
+    "look-018": {
+        number: "MODEL 018",
+        title: "Chain Embroidery",
+
+        materials: `
+            Chain embroidery on tulle..
+        `,
+
+        role: `
+            Collaborated with the design team to ensure aesthetic, color and quality standards were met. Worked closely with Product Development to ensure embroidery was within cost and MOQ targets.
+        `,
+
+        photos: [
+            "Images/dream-angels/look-018-details.png"
+        ]
+    },
+
+    "look-019": {
+        number: "MODEL 019",
+        title: "Shimmer Twinkle",
+
+        materials: `
+            Rhinestone on lace.
+        `,
+
+        role: `
+            Collaborated with the design team to ensure aesthetic, color and quality standards were met. Worked closely with Product Development to ensure embroidery was within cost targets.
+        `,
+
+        photos: [
+            "Images/dream-angels/look-019-details.png"
+        ]
+    }
+
 };
 
 
