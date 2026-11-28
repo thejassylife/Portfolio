@@ -208,7 +208,41 @@ const projects = {
         photos: [
             "Images/dream-angels/look-012-details.png"
         ]
-    }
+    },
+  
+      "look-013": {
+        number: "MODEL 013",
+        title: "Gingham",
+
+        materials: `
+            Embroidered tulle with gingham and sequin design.
+        `,
+
+        role: `
+            Collaborated with the design team to ensure aesthetic, color and quality standards were met. Worked closely with Product Development to ensure fabric was within cost targets.
+        `,
+
+        photos: [
+            "Images/dream-angels/look-013-details.png"
+        ]
+    },
+      "look-014": {
+        number: "MODEL 014",
+        title: "Watercolor",
+
+        materials: `
+            Embroidered tulle with watercolor floral design.
+        `,
+
+        role: `
+            Collaborated with the design team to ensure aesthetic, color and quality standards were met. Worked closely with Product Development to ensure fabric was within cost targets.
+        `,
+
+        photos: [
+            "Images/dream-angels/look-014-details.png",
+            "Images/dream-angels/look-014-details-1.png"
+        ]
+    },
 };
 
 
