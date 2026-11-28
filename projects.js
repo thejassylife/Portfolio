@@ -329,7 +329,7 @@ const projects = {
         photos: [
             "Images/dream-angels/look-019-details.png"
         ]
-    }
+    },
 
 };
 
